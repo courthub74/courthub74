@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **courthub74/courthub74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... courtneyj3470@gmail.com
 - 😄 Pronouns: ... he/him  she/her
 - ⚡ Fun fact: ... I am a Pop-Punk fan
--->
+
