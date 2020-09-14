@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with ... Placing a JS Calendar plugin on a couple of my projects
 - 💬 Ask me about ... How I became a Python/Django Full Stack Developer
 - 📫 How to reach me: ... courtneyj3470@gmail.com
-- 😄 Pronouns: ... he/him  she/her
+- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I am a Pop-Punk fan
 
