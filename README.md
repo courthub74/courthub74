@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Corporate-Level web application undertakings
 - 🤔 I’m looking for help with ... Perfecting my porfolio
 - 💬 Ask me about ... How I became a Python/Django Full Stack Developer
-- 📫 How to reach me: ... courtneyj3470@gmail.com
+- 📫 How to reach me: ... courdevelops@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I am a Pop-Punk fan
 
