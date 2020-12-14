@@ -1,4 +1,4 @@
-### My Name is Courthub74.  Yes it is.... lol 👋
+### My Name is Courthub74.  Yes it is.... lol 
 
 - 🔭 I’m currently working on ... Python/Django full stack web develpment
 - 🌱 I’m currently learning ... API development and design
