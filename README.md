@@ -6,7 +6,7 @@ Builder of creative technology systems and AI-powered tools.
 
 ## 🚀 Main Projects
 
-### <img src="./img/origin-os.png" width="26"> Origin OS
+### <img src="origin-os.png" width="26"> Origin OS
 
 A creator-focused operating system for AI generation, asset management, and publishing.
 
@@ -14,7 +14,7 @@ Node.js • Express • MongoDB • modular dashboard architecture.
 
 ---
 
-### <img src="./img/dream-agent.png" width="26"> dreamagent.art
+### <img src="dream-agent.png" width="26"> dreamagent.art
 
 Website and publishing platform created for the anonymous digital surrealist project Dream Agent.
 
@@ -22,7 +22,7 @@ Built using custom frontend architecture and deployed via Netlify.
 
 ---
 
-### <img src="./img/courdevelops.png" width="26"> CourDevelops
+### <img src="courdevelops.png" width="26"> CourDevelops
 
 Creative technology studio focused on workflow-first digital ecosystems for artists and creators.
 
