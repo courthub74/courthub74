@@ -1,6 +1,6 @@
 # Courtney Jacobs
 
-<img src="courdevelops.png" width="40">
+<img src="courdevelops.png" width="70">
 
 Founder — CourDevelops
 
