@@ -47,3 +47,6 @@ https://courdevelops.com
 Dream Agent Platform  
 https://dreamagent.art
 
+### Origin OS
+https://github.com/courthub74/origin-os
+
