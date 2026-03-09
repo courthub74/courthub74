@@ -14,7 +14,12 @@ Builder of creative technology systems and AI-powered tools.
 
 A creator-focused operating system for AI generation, asset management, and publishing.
 
-Core platform built with Node.js, Express, MongoDB, and modular dashboard architecture.
+**Stack**
+
+Node.js • Express • MongoDB • Modular dashboard architecture
+
+Repository  
+https://github.com/courthub74/origin-os
 
 ---
 
@@ -24,11 +29,18 @@ Website and publishing platform created for the anonymous digital surrealist pro
 
 Built using custom frontend architecture and deployed via Netlify.
 
+Project  
+https://dreamagent.art
+
 ---
 
 ### <img src="courdevelops.png" width="26"> CourDevelops
 
 Creative technology studio focused on workflow-first digital ecosystems for artists and creators.
+
+Website  
+https://courdevelops.com
+
 
 ## 🧰 Tech Stack
 
