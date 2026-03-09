@@ -42,7 +42,7 @@ AI workflow integration
 ## 🌐 Links
 
 Origin OS  
-[https://courdevelops.com]https://github.com/courthub74/origin-os
+https://github.com/courthub74/origin-os
 
 CourDevelops  
 https://courdevelops.com
