@@ -6,7 +6,7 @@ Builder of creative technology systems and AI-powered tools.
 
 ## 🚀 Main Projects
 
-### <img src="origin-os.png" width="26"> Origin OS
+### <img src="origin-os-green.png" width="26"> Origin OS
 
 A creator-focused operating system for AI generation, asset management, and publishing.
 
