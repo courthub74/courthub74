@@ -57,7 +57,7 @@ AI workflow integration
 
 ![Last Commit](https://img.shields.io/github/last-commit/courthub74/origin-os)
 ![Repo Size](https://img.shields.io/github/repo-size/courthub74/origin-os)
-![Top Language](https://img.shields.io/github/languages/top/courthub74/origin-os)
+![GitHub commit count](https://img.shields.io/github/commit-activity/t/courthub74/origin-os)
 
 ---
 
