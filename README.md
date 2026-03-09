@@ -12,7 +12,7 @@ Builder of creative technology systems and AI-powered tools.
 
 A creator-focused operating system for AI generation, asset management, and publishing.
 
-Node.js • Express • MongoDB • modular dashboard architecture.
+Core platform built with Node.js, Express, MongoDB, and modular dashboard architecture.
 
 ---
 
