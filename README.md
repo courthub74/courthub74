@@ -6,6 +6,8 @@ Founder — CourDevelops
 
 Builder of creative technology systems and AI-powered tools.
 
+---
+
 ## 🚀 Main Projects
 
 ### <img src="origin-os-green.png" width="26"> Origin OS
