@@ -1,5 +1,7 @@
 # Courtney Jacobs
 
+<img src="courdevelops.png" width="28">
+
 Founder — CourDevelops
 
 Builder of creative technology systems and AI-powered tools.
