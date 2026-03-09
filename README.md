@@ -41,6 +41,7 @@ Creative technology studio focused on workflow-first digital ecosystems for arti
 Website  
 https://courdevelops.com
 
+---
 
 ## 🧰 Tech Stack
 
