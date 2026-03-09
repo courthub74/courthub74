@@ -51,6 +51,16 @@ JavaScript
 REST APIs  
 AI workflow integration
 
+---
+
+## 📊 Development Activity
+
+![Last Commit](https://img.shields.io/github/last-commit/courthub74/origin-os)
+![Repo Size](https://img.shields.io/github/repo-size/courthub74/origin-os)
+![Top Language](https://img.shields.io/github/languages/top/courthub74/origin-os)
+
+---
+
 ## 🌐 Links
 
 Origin OS  
