@@ -2,6 +2,8 @@
 
 # Courtney Jacobs
 
+![GitHub stars](https://img.shields.io/github/stars/courthub74?style=social)
+
 Founder — CourDevelops
 
 Builder of creative technology systems and AI-powered tools.
@@ -60,16 +62,5 @@ REST APIs
 AI workflow integration
 
 ---
-
-## 🌐 Links
-
-Origin OS  
-https://github.com/courthub74/origin-os
-
-CourDevelops  
-https://courdevelops.com
-
-Dream Agent Platform  
-https://dreamagent.art
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=courthub74&show_icons=true&theme=dark)
 
