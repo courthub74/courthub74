@@ -8,6 +8,8 @@ Founder — CourDevelops
 
 Builder of creative technology systems and AI-powered tools.
 
+Focused on developer tooling, AI workflows, and creator platforms.
+
 ---
 
 ## 🚀 Main Projects
