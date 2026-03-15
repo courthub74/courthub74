@@ -25,8 +25,8 @@ A creator-focused operating system for AI generation, asset management, and publ
 
 Node.js • Express • MongoDB • Modular dashboard architecture
 
-Repository  
-https://github.com/courthub74/origin-os
+**Repository**  
+[github.com/courthub74/origin-os](https://github.com/courthub74/origin-os)
 
 ---
 
