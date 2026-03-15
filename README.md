@@ -31,6 +31,7 @@ https://github.com/courthub74/origin-os
 ### <img src="dream-agent.png" width="26"> dreamagent.art
 
 ![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/dream_agent_netlify)
+![Last Commit](https://img.shields.io/github/last-commit/courthub74/dream_agent_netlify)
 
 Website and publishing platform created for the anonymous digital surrealist project Dream Agent.
 
@@ -44,6 +45,7 @@ https://dreamagent.art
 ### <img src="courdevelops.png" width="26"> CourDevelops
 
 ![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/courdevelops-site)
+![Last Commit](https://img.shields.io/github/last-commit/courthub74/courdevelops-site)
 
 Creative technology studio focused on workflow-first digital ecosystems for artists and creators.
 
