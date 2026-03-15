@@ -12,6 +12,9 @@ Builder of creative technology systems and AI-powered tools.
 
 ### <img src="origin-os-green.png" width="26"> Origin OS
 
+![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/origin-os)
+![Last Commit](https://img.shields.io/github/last-commit/courthub74/origin-os)
+
 A creator-focused operating system for AI generation, asset management, and publishing.
 
 **Stack**
@@ -25,6 +28,8 @@ https://github.com/courthub74/origin-os
 
 ### <img src="dream-agent.png" width="26"> dreamagent.art
 
+![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/dreamagent)
+
 Website and publishing platform created for the anonymous digital surrealist project Dream Agent.
 
 Built using custom frontend architecture and deployed via Netlify.
@@ -35,6 +40,8 @@ https://dreamagent.art
 ---
 
 ### <img src="courdevelops.png" width="26"> CourDevelops
+
+![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/courdevelops)
 
 Creative technology studio focused on workflow-first digital ecosystems for artists and creators.
 
