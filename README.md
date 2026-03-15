@@ -39,7 +39,7 @@ Website and publishing platform created for the anonymous digital surrealist pro
 
 Built using custom frontend architecture and deployed via Netlify.
 
-Project  
+**Project**  
 https://dreamagent.art
 
 ---
@@ -51,7 +51,7 @@ https://dreamagent.art
 
 Creative technology studio focused on workflow-first digital ecosystems for artists and creators.
 
-Website  
+**Website**  
 https://courdevelops.com
 
 ---
