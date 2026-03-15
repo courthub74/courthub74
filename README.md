@@ -41,7 +41,7 @@ https://dreamagent.art
 
 ### <img src="courdevelops.png" width="26"> CourDevelops
 
-![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/courdevelops)
+![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/courdevelops-site)
 
 Creative technology studio focused on workflow-first digital ecosystems for artists and creators.
 
