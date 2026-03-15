@@ -28,7 +28,7 @@ https://github.com/courthub74/origin-os
 
 ### <img src="dream-agent.png" width="26"> dreamagent.art
 
-![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/dreamagent)
+![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/dream_agent_netlify)
 
 Website and publishing platform created for the anonymous digital surrealist project Dream Agent.
 
