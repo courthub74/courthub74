@@ -58,12 +58,7 @@ https://courdevelops.com
 
 ## 🧰 Tech Stack
 
-Node.js  
-Express  
-MongoDB  
-JavaScript  
-REST APIs  
-AI workflow integration
+Node.js • Express • MongoDB • JavaScript • REST APIs • AI workflow integration
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=courthub74&show_icons=true&theme=dark)
