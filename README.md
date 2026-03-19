@@ -1,6 +1,4 @@
-<img src="courdevelops.png" width="100">
-
-# Courtney Jacobs
+# <img src="courdevelops.png" width="45"> Courtney Jacobs
 
 ![GitHub stars](https://img.shields.io/github/stars/courthub74?style=social)
 
