@@ -59,5 +59,5 @@ https://courdevelops.com
 Node.js • Express • MongoDB • JavaScript • REST APIs • AI workflow integration
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=courthub74&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=courthub74&show_icons=true&bg_color=050814&title_color=3a9df7&text_color=ffffff&icon_color=3a9df7&border_color=050814&hide_border=true)
 
