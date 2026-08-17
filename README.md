@@ -4,7 +4,7 @@
 
 Software Developer • Builder of CourDevelops.
 
-Focused on developer tooling, AI workflows, and creator platforms.
+Systems-focused developer who builds workflow-driven software.
 
 ---
 
