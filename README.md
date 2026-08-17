@@ -26,6 +26,25 @@ Node.js • Express • MongoDB • Modular dashboard architecture
 
 ---
 
+### 🏒 Viking Arena Scheduling & Timekeeping System
+
+![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/viking-arena-time-card)
+![Last Commit](https://img.shields.io/github/last-commit/courthub74/viking-arena-time-card)
+
+A workforce scheduling and timekeeping system built around the day-to-day operations of a working ice arena.
+
+Supports employee authentication, shift scheduling, work-history tracking, and manager workflows through a custom REST API and persistent database.
+
+**Stack**
+
+Node.js • Express • PostgreSQL • REST APIs • JavaScript
+
+**Repository**
+[github.com/courthub74/viking-arena-time-card](https://github.com/courthub74/viking-arena-time-card)
+
+---
+
+
 ### <img src="dream-agent.png" width="26"> dreamagent.art
 
 ![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/dream_agent_netlify)
