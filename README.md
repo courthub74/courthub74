@@ -2,9 +2,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/courthub74?style=social)
 
-Founder — CourDevelops
-
-Builder of creative technology systems and AI-powered tools.
+Software Developer • Builder of CourDevelops.
 
 Focused on developer tooling, AI workflows, and creator platforms.
 
