@@ -26,7 +26,7 @@ Node.js • Express • MongoDB • Modular dashboard architecture
 
 ---
 
-### 🏒 Viking Arena Scheduling & Timekeeping System
+### <img src="viking-arena-logo.png" width="26"> Viking Arena Scheduling & Timekeeping System
 
 ![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/viking-arena-time-card)
 ![Last Commit](https://img.shields.io/github/last-commit/courthub74/viking-arena-time-card)
