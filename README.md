@@ -50,9 +50,9 @@ Node.js • Express • PostgreSQL backend in development • REST APIs • Java
 
 Designed and built the visual identity and publishing layer for an ongoing digital-art practice, organizing a growing body of work into collections, releases, artist context, and distribution destinations without relying on a traditional CMS.
 
-**Stack**
+**Design & Stack**
 
-HTML • CSS • JavaScript • GSAP • Intersection Observer • Responsive Design
+Custom visual system • Responsive UI • HTML • CSS • JavaScript • GSAP • Intersection Observer
 
 **Project**  
 https://dreamagent.art
