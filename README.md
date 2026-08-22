@@ -31,9 +31,7 @@ Node.js • Express • MongoDB • Modular dashboard architecture
 ![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/viking-arena-time-card)
 ![Last Commit](https://img.shields.io/github/last-commit/courthub74/viking-arena-time-card)
 
-A workforce scheduling and timekeeping system built around the day-to-day operations of a working ice arena.
-
-Supports employee authentication, shift scheduling, work-history tracking, and manager workflows through a custom REST API and persistent database.
+Replaces fragmented employee scheduling and timekeeping workflows at an ice arena with a role-aware system for shift scheduling, hour submission, work-history tracking, and manager oversight.
 
 **Stack**
 
