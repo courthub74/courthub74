@@ -17,9 +17,9 @@ Systems-focused developer who builds workflow-driven software.
 
 Solves the fragmented workflow between AI creation, asset organization, approval, and publishing by bringing the entire creative lifecycle into one managed workflow.
 
-**Stack**
+**Architecture & Stack**
 
-Node.js • Express • MongoDB • Modular dashboard architecture
+Custom responsive frontend • Node.js/Express service layer • MongoDB persistence • REST API architecture • Account authentication • AI image-generation integration • Modular workflow dashboard
 
 **Repository**  
 [github.com/courthub74/origin-os](https://github.com/courthub74/origin-os)
