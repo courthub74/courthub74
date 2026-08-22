@@ -50,6 +50,10 @@ Node.js • Express • PostgreSQL backend in development • REST APIs • Java
 
 Designed and built the visual identity and publishing layer for an ongoing digital-art practice, organizing a growing body of work into collections, releases, artist context, and distribution destinations without relying on a traditional CMS.
 
+**Stack**
+
+HTML • CSS • JavaScript • GSAP • Intersection Observer • Responsive Design
+
 **Project**  
 https://dreamagent.art
 
@@ -61,6 +65,10 @@ https://dreamagent.art
 ![Last Commit](https://img.shields.io/github/last-commit/courthub74/courdevelops-site)
 
 Software studio building workflow-driven systems for creative operations, employee management, and other processes that have outgrown spreadsheets, disconnected tools, and manual handoffs.
+
+**Stack**
+
+HTML • CSS • JavaScript • Responsive Design
 
 **Website**  
 https://courdevelops.com
