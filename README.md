@@ -73,10 +73,5 @@ HTML • CSS • JavaScript • Responsive Design
 **Website**  
 https://courdevelops.com
 
----
-
-## 🧰 Tech Stack
-
-Node.js • Express • MongoDB • JavaScript • REST APIs • AI workflow integration
 
 
