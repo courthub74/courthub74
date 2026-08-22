@@ -48,9 +48,7 @@ Node.js • Express • PostgreSQL • REST APIs • JavaScript
 ![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/dream_agent_netlify)
 ![Last Commit](https://img.shields.io/github/last-commit/courthub74/dream_agent_netlify)
 
-Website and publishing platform created for the anonymous digital surrealist project Dream Agent.
-
-Built using custom frontend architecture and deployed via Netlify.
+Publishing layer for an ongoing digital-art practice, organizing a growing body of work into collections, releases, artist context, and distribution destinations without relying on a traditional CMS.
 
 **Project**  
 https://dreamagent.art
