@@ -8,7 +8,7 @@ Systems-focused developer who builds workflow-driven software.
 
 ---
 
-## 🚀 Main Projects
+## 🚀 Featured Systems
 
 ### <img src="origin-os-green.png" width="26"> Origin OS
 
