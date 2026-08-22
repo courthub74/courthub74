@@ -60,7 +60,7 @@ https://dreamagent.art
 ![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/courdevelops-site)
 ![Last Commit](https://img.shields.io/github/last-commit/courthub74/courdevelops-site)
 
-Creative technology studio focused on workflow-first digital ecosystems for artists and creators.
+Building software around real workflows that have outgrown spreadsheets, disconnected tools, and manual processes.
 
 **Website**  
 https://courdevelops.com
