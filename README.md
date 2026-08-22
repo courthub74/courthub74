@@ -35,7 +35,7 @@ Replaces fragmented employee scheduling and timekeeping workflows at an ice aren
 
 **Stack**
 
-Node.js • Express • PostgreSQL • REST APIs • JavaScript
+Node.js • Express • PostgreSQL backend in development • REST APIs • JavaScript
 
 **Repository**
 [github.com/courthub74/viking-arena-time-card](https://github.com/courthub74/viking-arena-time-card)
