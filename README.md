@@ -15,7 +15,7 @@ Systems-focused developer who builds workflow-driven software.
 ![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/origin-os)
 ![Last Commit](https://img.shields.io/github/last-commit/courthub74/origin-os)
 
-A creator-focused operating system for AI generation, asset management, and publishing.
+Solves the fragmented workflow between AI creation, asset organization, approval, and publishing by bringing the entire creative lifecycle into one managed workflow.
 
 **Stack**
 
