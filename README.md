@@ -60,7 +60,7 @@ https://dreamagent.art
 ![GitHub commits](https://img.shields.io/github/commit-activity/m/courthub74/courdevelops-site)
 ![Last Commit](https://img.shields.io/github/last-commit/courthub74/courdevelops-site)
 
-Building software around real workflows that have outgrown spreadsheets, disconnected tools, and manual processes.
+Software studio building workflow-driven systems for creative operations, employee management, and other processes that have outgrown spreadsheets, disconnected tools, and manual handoffs.
 
 **Website**  
 https://courdevelops.com
