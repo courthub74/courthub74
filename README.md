@@ -4,7 +4,7 @@
 
 Software Developer • Builder of CourDevelops.
 
-Systems-focused developer who builds workflow-driven software.
+I build workflow-driven software around real operational needs.
 
 ---
 
